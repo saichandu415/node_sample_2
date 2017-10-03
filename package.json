@@ -1,0 +1,12 @@
+{
+  "name": "Billing_Using_NODE",
+  "version": "0.0.1",
+  "description": "Full-Stack JavaScript with MongoDB, Express, AngularJS, and Node.js",
+  "author": "Sai Sarath",
+  "scripts": {
+    "start": "node Server.js"
+  },
+  "dependencies": {
+    "express": "latest"
+  }
+}
